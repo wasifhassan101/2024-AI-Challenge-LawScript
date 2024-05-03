@@ -1,0 +1,19 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sql
+*.db
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
